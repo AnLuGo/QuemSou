@@ -1,6 +1,6 @@
 # Olá, sou o André!
 
-| <img src="https://i.ibb.co/VQJcsPP/IMG-20210221-235637-655.jpg" width="200"> | Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos e contribuições interessantes. Permita-me compartilhar um pouco mais sobre mim. |
+| !<img src="https://i.ibb.co/VQJcsPP/IMG-20210221-235637-655.jpg" width="200"> | Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos e contribuições interessantes. Permita-me compartilhar um pouco mais sobre mim. |
 
 
 ## Sobre mim
