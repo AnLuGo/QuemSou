@@ -1,23 +1,18 @@
 # Olá, sou o André!
 
-<p align="justify">
-  Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos e contribuições interessantes. Permita-me compartilhar um pouco mais sobre mim.
-  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec scelerisque metus nec leo consectetur, at aliquet purus gravida. Suspendisse pulvinar purus nisl, eget eleifend nisl interdum at.
-</p>
+<div style="text-align: justify">
 
-<p align="right">
-  <img src="https://i.ibb.co/VQJcsPP/IMG-20210221-235637-655.jpg" alt="Imagem do André" width="200">
-</p>
+Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos e contribuições interessantes. Permita-me compartilhar um pouco mais sobre mim.</div> | <div style="text-align: center"><img src="https://i.ibb.co/NsgZJmk/IMG-20230501-140717.jpg" alt="Imagem do André" width="250"></div> |
+|---|---|
 
-
-## Sobre mim
+  ## Sobre mim
 
 Sou um entusiasta da programação com interesse em desenvolvimento web e inteligência artificial. Adoro aprender novas tecnologias e enfrentar desafios emocionantes.
 
 - 💻 Atualmente estou trabalhando em projetos de desenvolvimento web.
 - 🌱 Estou aprendendo sobre aprendizado de máquina e análise de dados.
 - 🤝 Estou aberto a colaborações e oportunidades interessantes.
+
 
 ## Projetos
 
