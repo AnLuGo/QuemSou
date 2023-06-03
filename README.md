@@ -10,7 +10,8 @@ Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de pr
 Sou um entusiasta de programação com interesse em desenvolvimento web e inteligência artificial. Adoro aprender novas tecnologias e enfrentar desafios emocionantes.
 
 - 💻 Atualmente estou trabalhando em projetos de desenvolvimento web.
-- 🌱 Estou aprendendo sobre aprendizado de máquina e análise de dados.
+- 🌱 Estou aprendendo sobre desenvolvimento mobile nativo.
+- 💾 Sempre procurei aprender um pouco sobre desenvolvimento de games.
 - 🤝 Estou aberto a colaborações e oportunidades interessantes.
 
 
