@@ -29,7 +29,7 @@ Sinta-se à vontade para explorar meus repositórios e deixar suas sugestões e 
 
 Você pode me encontrar nas seguintes plataformas:
 
-- LinkedIn: [André Luis Gomes Santos](https://www.linkedin.com/in/andré-luis-gomes-santos-621839226/)
+- LinkedIn: [André Luis Gomes Santos](https://www.linkedin.com/in/andré-luís-gomes-santos-94510b2a3/)
 - E-mail: andreluis99gs@gmail.com
 - Instagram: [andreluis_g_santos](https://instagram.com/andreluis_g_santos?igshid=MzNlNGNkZWQ4Mg==)
 
