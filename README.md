@@ -19,9 +19,9 @@ Sou um entusiasta de programação com interesse em desenvolvimento web e inteli
 
 Aqui estão alguns dos projetos em destaque que você pode encontrar em meu repositório:
 
-- [Matche Simulator App](https://github.com/AnLuGo/matche-simulator-app): App Android Nativo de simulação de partidas. Foi um app que fiz para ficçassão do conteudo que aprendi sobre desenvolvimento android.
-- [Nome do projeto 2](link_do_projeto_2): Uma breve descrição do projeto 2.
-- [Nome do projeto 3](link_do_projeto_3): Uma breve descrição do projeto 3.
+- [Sistema de Estacionamento](https://github.com/AnLuGo/desafio-de-projeto-estacionamento-dotnet): Este pojeto simula um sistema de estacionamento, foi feito como desafio para trilha .Net da DIO.
+- [Sistema Bancário](https://github.com/AnLuGo/BancoDigital): Este projeto é um sistema bancário em Java que simula as operações básicas de um banco, como a criação de clientes, abertura de contas correntes e contas poupança, e realização de transações financeiras.
+- [RPG](https://github.com/AnLuGo/Dio_RPG): Fiz aqui um breve e simples sistema de um RPG para aperfeiçoar e fixar os conhecimentos em POO e C#.
 
 Sinta-se à vontade para explorar meus repositórios e deixar suas sugestões e comentários.
 
