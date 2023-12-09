@@ -32,6 +32,5 @@ Você pode me encontrar nas seguintes plataformas:
 - LinkedIn: [André Luis Gomes Santos](https://www.linkedin.com/in/andré-luis-gomes-santos-621839226/)
 - E-mail: andreluis99gs@gmail.com
 - Instagram: [andreluis_g_santos](https://instagram.com/andreluis_g_santos?igshid=MzNlNGNkZWQ4Mg==)
-<img src="https://i.ibb.co/Bcw5YLt/Whats-App-Image-2023-06-02-at-21-09-44.jpg" width="200">
 
 Vamos nos conectar e discutir ideias!
