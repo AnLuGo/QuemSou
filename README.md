@@ -2,7 +2,7 @@
 
 <div style="text-align: justify">
 
-Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos e contribuições interessantes. Permita-me compartilhar um pouco mais sobre mim.</div> | <div style="text-align: center"><img src="https://i.ibb.co/NsgZJmk/IMG-20230501-140717.jpg" alt="Imagem do André" width="250"></div> |
+Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de projetos e contribuições interessantes. Permita-me compartilhar um pouco mais sobre mim.</div> | <div style="text-align: center"><img src="https://i.ibb.co/9Z4Lp1Z/IMG-20240329-WA0027.jpg" alt="Imagem do André" width="250"></div> |
 |---|---|
 
   ## Sobre mim
