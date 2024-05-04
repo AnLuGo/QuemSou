@@ -10,7 +10,7 @@ Bem-vindo(a) ao meu perfil no GitHub. Aqui você encontrará uma variedade de pr
 Sou um entusiasta de programação com interesse em desenvolvimento web e inteligência artificial. Adoro aprender novas tecnologias e enfrentar desafios emocionantes.
 
 - 💻 Atualmente estou trabalhando em projetos de desenvolvimento web (Laravel).
-- 🌱 Estou aprendendo sobre IA e Cloud (Rumo as Certificaçoes AI-900 e AZ-900).
+- 🌱 Estou aprendendo sobre IA e Cloud (Rumo as Certificaçoes [AI-900](https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) e [AZ-900](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)).
 - 💾 Sempre procurei aprender um pouco sobre desenvolvimento de games.
 - 🤝 Estou aberto a colaborações e oportunidades interessantes.
 
